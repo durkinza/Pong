@@ -1,5 +1,5 @@
 # Pong
-##### The revolutionary new game that is sweeping the nation
+##### The revolutionary new game that is sweeping the nation!
 
 
 
@@ -54,12 +54,13 @@ Press *h* to toggle the help / controls screen
 ## Preview of game
 The Help Screen
 ![The Help Screen](https://raw.githubusercontent.com/durkinza/Pong/master/Help%20Screen.png)
+
 A ball in play
 ![The Game](https://raw.githubusercontent.com/durkinza/Pong/master/Game%20in%20play.png)
 
 
 
 #### Todos
- - [] Add graphics to the ball and paddles, maybe a dark board mode
- - [] Add cool sounds when ball hits a paddle or goes out of bounds
- - Set computer paddle to have basic AI
+ - [ ] Add graphics to the ball and paddles, maybe a dark board mode
+ - [ ] Add cool sounds when ball hits a paddle or goes out of bounds
+ - [ ] Set computer paddle to have basic AI
