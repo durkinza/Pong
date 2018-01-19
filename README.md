@@ -10,7 +10,7 @@
   $ git clone https://github.com/durkinza/Pong
   ```
   Or
-  ![Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square&link=https://github.com/durkinza/Pong/archive/master.zip)
+  ![[Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square)](https://github.com/durkinza/Pong/archive/master.zip)
 - Run `Pong.exe`
   ```cmd
   $ cd Pong
@@ -28,7 +28,7 @@
   $ git clone https://github.com/durkinza/Pong
   ```
   Or
-  ![Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square&link=https://github.com/durkinza/Pong/archive/master.zip)
+  ![[Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square)](https://github.com/durkinza/Pong/archive/master.zip)
 - Run `Pong.exe`
   ```sh
   $ cd pong
