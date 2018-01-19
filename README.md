@@ -13,7 +13,7 @@
   [![Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square)](https://github.com/durkinza/Pong/archive/master.zip)
 - Run `Pong.exe`
   ```cmd
-  $ cd Pong
+  $ cd Pong\release\
   $ Pong.exe
   ```
   Or
@@ -31,7 +31,7 @@
   [![Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square)](https://github.com/durkinza/Pong/archive/master.zip)
 - Run `Pong.exe`
   ```sh
-  $ cd pong
+  $ cd Pong/release/
   $ ./Pong.sh
   ```
 - Play The Game!
