@@ -41,7 +41,7 @@
 ## How to play
 #### To move your paddle (the right paddle)
 Use the *up* or *down* arrow keys to move the paddle, or
-Use the *w* key for up and *s* key to move the paddle
+Use the *w* and *s* keys to move the paddle
 #### To send a ball
 Use the *space bar* to send a ball
 #### To remove a ball that is already on the board
@@ -60,6 +60,6 @@ A ball in play
 
 
 #### Todos
- - Add graphics to the ball and paddles, maybe a dark board mode
- - Add cool sounds when ball hits a paddle or goes out of bounds
+ - [] Add graphics to the ball and paddles, maybe a dark board mode
+ - [] Add cool sounds when ball hits a paddle or goes out of bounds
  - Set computer paddle to have basic AI
