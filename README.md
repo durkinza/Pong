@@ -42,6 +42,8 @@
 #### To move your paddle (the right paddle)
 Use the *up* or *down* arrow keys to move the paddle, or
 Use the *w* and *s* keys to move the paddle
+
+If the paddle doesn't move, try clicking on the paddle first.
 #### To send a ball
 Use the *space bar* to send a ball
 #### To remove a ball that is already on the board
