@@ -22,20 +22,6 @@
   ```
 - You're all set!
 
-*For MacOS (and probably linux?)*
-- Download this repo
-  ```sh
-  $ git clone https://github.com/durkinza/Pong
-  ```
-  Or
-  [![Download](https://img.shields.io/badge/Click%20Here-To%20Download-blue.svg?style=flat-square)](https://github.com/durkinza/Pong/archive/master.zip)
-- Run `Pong.exe`
-  ```sh
-  $ cd Pong/release/
-  $ ./Pong.sh
-  ```
-- Play The Game!
-
 
 
 ## How to play
