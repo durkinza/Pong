@@ -47,7 +47,7 @@ Game::Game(QWidget * parent): QGraphicsView(parent)
     setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 
-    setFixedSize(screen_width, screen_height);
+    //setFixedSize(screen_width, screen_height);
     scene->setSceneRect(-10,0, screen_width, screen_height);
 
     // Show the game
